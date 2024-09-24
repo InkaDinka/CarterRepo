@@ -1,2 +1,2 @@
 # CarterRepo
-First repository for  
+First repository for CSE 360
